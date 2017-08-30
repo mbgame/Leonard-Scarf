@@ -1,0 +1,16 @@
+@font-face {
+     font-family: 'BYekan';
+     src: url('BYekan.eot'); /* IE9 Compat Modes */
+     src: url('BYekan.eot?#') format('eot'), /* IE6–8 */
+     url('BYekan.ttf') format('truetype'), /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+     url('BYekan.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+     url('BYekan.otf') format('opentype'),
+     url('BYekan.svg') format('svg');
+     font-variant: normal;
+     font-weight: normal;
+     font-style: normal;
+ }
+ body {
+     font-family: BYekan, Tahoma, Arial, sans-serif;
+     font-size: inherit;
+ }
